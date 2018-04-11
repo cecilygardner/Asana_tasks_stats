@@ -11,7 +11,7 @@ are added to a new asana task created in a specified project:
 * list of tasks 1 std above the mean
 
 Note:
-* close time means the time in days between task creation and task completion
+* close time refers to the time in days between task creation and task completion
 * the project to pull from, the project to create the task in, and the Asana
 api connection information (PID & user ID) are specified in the asana_config.json
 file
